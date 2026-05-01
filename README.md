@@ -27,3 +27,11 @@
 ![Designed](https://img.shields.io/badge/26/03/2026-✓_local_tests_passed-darkgreen?style=plastic)
 ![Designed](https://img.shields.io/badge/12/04/2026-✓_live_on_testnet-darkgreen?style=plastic)
 ![Designed](https://img.shields.io/badge/by_june_2026-⚙_live_on_mainnet-darkblue?style=plastic)
+
+### #Example
+
+![Designed](https://img.shields.io/badge/solidity-^0.8.4-black?style=plastic)
+![Designed](https://img.shields.io/badge/foundry-1.6.1-black?style=plastic)
+![Designed](https://img.shields.io/badge/12/04/2026-✓_live_on_testnet-darkgreen?style=plastic)
+![Designed](https://img.shields.io/badge/by_june_2026-⚙_live_on_mainnet-darkblue?style=plastic)
+
