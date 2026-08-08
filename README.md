@@ -1,4 +1,6 @@
-# progress_badges
+## progress_badges
+
+_Just a publicly accessible brainstorm on how we can indicate the Smart Contract repository’s status using Shields.io badges._
 
 ### #1
 
